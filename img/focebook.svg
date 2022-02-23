@@ -1,0 +1,22 @@
+<svg width="116" height="116" viewBox="0 0 116 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_238_39)">
+<circle cx="58" cy="58" r="28" fill="#042D92"/>
+</g>
+<g clip-path="url(#clip0_238_39)">
+<path d="M63.8289 46.3115H67.0241V40.7465C66.4729 40.6706 64.5771 40.5 62.3691 40.5C57.7623 40.5 54.6064 43.3977 54.6064 48.7235V53.625H49.5227V59.8463H54.6064V75.5H60.8394V59.8477H65.7175L66.4919 53.6265H60.8379V49.3404C60.8394 47.5423 61.3235 46.3115 63.8289 46.3115Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_238_39" x="0" y="0" width="116" height="116" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="15"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.4 0 0 0 0 0.4 0 0 0 0 0.4 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_238_39"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_238_39" result="shape"/>
+</filter>
+<clipPath id="clip0_238_39">
+<rect width="35" height="35" fill="white" transform="translate(40.5 40.5)"/>
+</clipPath>
+</defs>
+</svg>
